@@ -1,0 +1,45 @@
+section{
+	width: 100%;
+}
+.left_one{
+	width: 50%;
+	display: inline-block;
+	background-color: #fff;
+	position: absolute;
+}
+
+.left_one img{
+	width: 100%;
+}
+
+.right_one {
+width: 50%;
+display: inline-block;
+background-color: #000;
+color: #fff;
+transform: skew(-5deg,0deg);
+    position: absolute;
+    right: 26px;
+}
+
+.right_one p{
+background-color: #000;
+color: #fff;
+padding: 6px;
+overflow: hidden;
+word-spacing: normal;
+word-wrap: break-word;
+margin: 0px;
+
+}
+
+div{
+	float: left;
+}
+
+h1 {
+    font-size: 20px;
+    margin: 5px;
+}
+
+
